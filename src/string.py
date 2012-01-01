@@ -3,5 +3,5 @@ Created on Jan 1, 2012
 
 @author: robert
 '''
-test = ('mom','dad','fien')
+test = ('mom','dad','fien','jos')
 print test
