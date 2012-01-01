@@ -6,4 +6,4 @@ Created on Jan 1, 2012
 x=3
 y=4
 z=x+y
-print z
+print 'x + y' + 'z'
