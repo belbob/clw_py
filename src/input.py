@@ -6,4 +6,4 @@ Created on Jan 2, 2012
 x=input("geef een eerste getal: ")
 y=input("geef een tweede getal: ")
 z=x+y
-print "se som van deze twee getallen is:",z
+print "de som van deze twee getallen is:",z
