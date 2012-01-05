@@ -15,10 +15,11 @@ print x,('/'),y, ('= '),x/y
 print ('LET OP, problemen bij het delen')
 x=9
 print x,('/'),y, ('= '),x/y ,('-> FOUT')
+print x,('/'),-y, ('= '),x/-y ,('-> FOUT')
 x=9.0
 print x,('/'),y, ('= '),x/y ,('-> JUIST')
 y=2.0
-print x,('/'),y, ('= '),x/y ,('-> JUIST')
+print x,('/'),-y, ('= '),x/-y ,('-> JUIST')
 
 print ('Modulus')
 # Het bekendste voorbeeld van modulair rekenen is de tijdrekening in uren, 
