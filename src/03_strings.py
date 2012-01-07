@@ -3,12 +3,12 @@ Created on Jan 7, 2012
 
 @author: robert
 '''
-print ('Werken met strings')
-print 'string met \'hoi Robert\''
-print "string met \"hoi Robert\""
-naam = raw_input ('naam: ')
-vnaam = raw_input ('voornaam: ')
-leeftijd = input ('leeftijd in jaren: ')
-spatie = ' '
-volnaam = vnaam + spatie + naam
-print volnaam,'is',str(leeftijd)
+print ('Strings')
+print 'this is string with \'hoi Robert\''
+print "this is string with \"hoi Robert\""
+lname = raw_input ('naam: ')
+fname = raw_input ('voornaam: ')
+age = input ('leeftijd in jaren: ')
+space = ' '
+name = fname + space + lname
+print name,'is',str(age)
