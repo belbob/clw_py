@@ -12,3 +12,8 @@ age = input ('leeftijd in jaren: ')
 space = ' '
 name = fname + space + lname
 print name,'is',str(age)
+var = (lname,fname,age)
+sense = '%s %s is %s'
+print sense % var
+
+print ('\nMethod on Strings')
