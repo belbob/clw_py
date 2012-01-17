@@ -26,3 +26,13 @@ for student in students:
 age={'Jesse':21,'Raf':23,'Niels':22}
 for student in age:
     print student,age[student]
+
+# 
+    
+student1 = {'lname':'Stiernet','fname':'Gino'}
+student2 = {'lname':'Lau','fname':'Philip'}
+students = (student1,student2)
+print students
+
+for x in students:
+    print x["lname"],x["fname"]    
