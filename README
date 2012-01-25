@@ -1,7 +1,10 @@
-Practicum Python
-================
+Practicum Python/Eclipse/PyDev/Git
+==================================
 
-1.Maak gebruik van Eclipse, Pydev en E-git.
-2.Creeer een gratis github.com account, setup Git en maak een Repository aan.
-3.Maak nu je eerste PyDev project aan en koppel dat met Git en GitHub (Team).
-4.Bestudeer elke oefening in "belbob/clw_py" repository en maak je eigen versie.
+1.Setup Git, creeer een Free OSS github.com account, maak een Repository aan.
+2.Maak nu je eerste PyDev project aan en koppel dat met GitHub (Eclipse - PyDev - Egit).
+3.Schrijf in XML een installatie handleiding Eclipse/PyDev/Egit (Publican)
+4.Bestudeer elke oefening in "belbob/clw_py/src" repository.
+5.Schrijf een mini-toepassing (max 100 lines code inc.comment), gebruik de aangeboden technieken.(Python)
+6.Schrijf mini-manual over je toepassing, maak gebruik van asciidoc. (VI)
+7.Maak een presentatie met LaTeX over je Python toepassing, min 5 slides. (LyX)
